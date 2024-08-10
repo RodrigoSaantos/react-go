@@ -1,4 +1,4 @@
-module github.com/rodrigosaantos/react+go
+module github.com/rodrigosaantos/react-go
 
 go 1.22.6
 

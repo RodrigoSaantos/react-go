@@ -8,8 +8,8 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/rodrigosaantos/react+go/internal/api"
-	"github.com/rodrigosaantos/react+go/internal/store/pgstore"
+	"github.com/rodrigosaantos/react-go/internal/api"
+	"github.com/rodrigosaantos/react-go/internal/store/pgstore"
 
 	"github.com/jackc/pgx/v5/pgxpool"
 	"github.com/joho/godotenv"
